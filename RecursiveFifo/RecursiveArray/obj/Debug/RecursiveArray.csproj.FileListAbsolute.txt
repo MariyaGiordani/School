@@ -1,0 +1,14 @@
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\obj\Debug\RecursiveArray.csprojAssemblyReference.cache
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\obj\Debug\RecursiveArray.csproj.CoreCompileInputs.cache
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\bin\Debug\RecursiveArray.exe.config
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\bin\Debug\RecursiveArray.exe
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\bin\Debug\RecursiveArray.pdb
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\obj\Debug\RecursiveArray.exe
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifob\RecursiveArray\obj\Debug\RecursiveArray.pdb
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\bin\Debug\RecursiveArray.exe.config
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\bin\Debug\RecursiveArray.exe
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\bin\Debug\RecursiveArray.pdb
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\obj\Debug\RecursiveArray.csprojAssemblyReference.cache
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\obj\Debug\RecursiveArray.csproj.CoreCompileInputs.cache
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\obj\Debug\RecursiveArray.exe
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveArray\obj\Debug\RecursiveArray.pdb

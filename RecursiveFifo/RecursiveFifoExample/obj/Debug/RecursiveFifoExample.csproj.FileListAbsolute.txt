@@ -1,0 +1,7 @@
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\bin\Debug\RecursiveFifoExample.exe.config
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\bin\Debug\RecursiveFifoExample.exe
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\bin\Debug\RecursiveFifoExample.pdb
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\obj\Debug\RecursiveFifoExample.csprojAssemblyReference.cache
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\obj\Debug\RecursiveFifoExample.csproj.CoreCompileInputs.cache
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\obj\Debug\RecursiveFifoExample.exe
+C:\Users\mlukanova.MBSINTL\source\repos\RecursiveFifo\RecursiveFifoExample\obj\Debug\RecursiveFifoExample.pdb
